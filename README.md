@@ -3,7 +3,9 @@
 ### Relatório para atividade na DIO
 
 Data: 04 de Abril de 2024
+
 Empresa: Abstergo Industries
+
 Responsável: Emerson Pereira da Silva
 
 ## Introdução
